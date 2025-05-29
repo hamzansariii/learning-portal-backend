@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "u374925817_ct542",
+    "password": "HamzaTsbi@123",
+    "database": "u374925817_ct",
+    "host": "217.21.85.204",
+    "logging":false,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "logging":false,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "logging":false,
+    "dialect": "mysql"
+  }
+}
